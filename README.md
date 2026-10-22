@@ -12,7 +12,7 @@ escalates what an attacker does.
 
 | # | Room / Lab | Topic | MITRE / Concept | Status |
 |---|------------|-------|-----------------|--------|
-| 01 | Cyber Kill Chain | Attack lifecycle | Kill Chain | ⬜ |
+| 01 | Cyber Kill Chain | Attack lifecycle | Kill Chain | ✅ |
 | 02 | MITRE ATT&CK | Tactics & techniques | ATT&CK framework | ⬜ |
 | 03 | Pyramid of Pain | Indicators & detection value | Detection theory | ⬜ |
 | 04 | Intro to SOC | SOC roles, tiers, workflow | SOC fundamentals | ⬜ |
